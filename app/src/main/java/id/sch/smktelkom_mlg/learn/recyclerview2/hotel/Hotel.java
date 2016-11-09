@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.hotel;
+package id.sch.smktelkom_mlg.learn.recyclerview2.hotel;
 
 import android.graphics.drawable.Drawable;
 
